@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  date: 
+  venue: MyString
+  sponsor: MyString
+
+two:
+  name: MyString
+  date: 
+  venue: MyString
+  sponsor: MyString
